@@ -1,5 +1,5 @@
 {
-  "name": "ngraph.physics.primitives",
+  "name": "ngraph.physics.primitives4d",
   "version": "1.0.0",
   "description": "Physics primitives for ngraph.* libraries",
   "main": "index.js",
@@ -8,17 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/anvaka/ngraph.physics.primitives.git"
+    "url": "https://github.com/vradrus/ngraph.physics.primitives4d.git"
   },
   "keywords": [
     "ngraph",
     "ngraphjs",
     "physics"
   ],
-  "author": "Andrei Kashcha",
+  "author": "Andrei Kashcha, fork by Vladimir Radushevskii",
   "license": "BSD-3-Clause",
   "bugs": {
-    "url": "https://github.com/anvaka/ngraph.physics.primitives/issues"
+    "url": "https://github.com/vradrus/ngraph.physics.primitives4d/issues"
   },
   "devDependencies": {
     "tap": "^14.2.0"
